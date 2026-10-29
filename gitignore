@@ -1,7 +1,0 @@
-bin/
-obj/
-dist/
-.local-chromium/
-.local-browser/
-.vs/
-.vscode/
